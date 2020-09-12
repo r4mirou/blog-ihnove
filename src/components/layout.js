@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import Navigation from "./navigation";
+import { Link } from "gatsby"
 
 import "../assets/scss/style.scss"
 import Footer from "./footer";
@@ -18,13 +19,13 @@ const Layout = ({ children, className }) => {
         {/* <Logo title={"img"} /> */}
         <div style={{ display: "flex", flexDirection: "row" }}>
           <div>
-            <a href="http://www.ihnovecomunicacao.com.br">
-              <img src={Ih9Logo} style={{ width: "55px", animation: "pulse 1.2s linear infinite"}} alt="fireSpot" />
-            </a>
+            <Link to={"/"}>
+              <img src={Ih9Logo} style={{ width: "55px", animation: "pulse 1.2s linear infinite" }} alt="fireSpot" />
+            </Link>
           </div>
-          <a href="http://www.ihnovecomunicacao.com.br">
+          <Link to={"/"}>
             <div style={{ color: "rgb(5, 112, 212)", marginLeft: "5px", marginTop: "15px" }}><b>BLOG!</b></div>
-          </a>
+          </Link>
         </div>
         <Navigation />
       </Header>

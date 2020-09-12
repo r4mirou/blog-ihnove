@@ -42,7 +42,7 @@ const Pagination = (props) => (
       {!props.isFirst && (
         <li>
           <Link to={props.prevPage} rel="prev">
-          <span className="icon -left"><RiArrowLeftLine/></span> Previous
+          <span className="icon -left"><RiArrowLeftLine/></span> Anterior
           </Link>
         </li>
       )}
@@ -71,7 +71,7 @@ class BlogIndex extends React.Component {
     
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
-    const blogSlug = '/' 
+    const blogSlug = '/'
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
     const prevPage = currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()

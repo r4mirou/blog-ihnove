@@ -49,26 +49,6 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      # - label: "Home"
-      #   name: "home"
-      #   file: "src/content/pages/index.md"
-      #   fields:
-      #   - {label: "Template", name: "template", widget: "hidden", default: "index-page" }
-      #   - {label: "Slug", name: "slug", widget: "hidden", default: "/" }
-      #   - {label: "Title", name: "title", widget: "string"}
-      #   - {label: "Tagline", name: "tagline", widget: "string"}
-      #   - {label: "Featured Image", name: "featuredImage", widget: "image"}
-      #   - {label: "Body", name: "body", widget: "markdown"}
-      #   - label: "CTA"
-      #     name: "cta"
-      #     widget: "object"
-      #     fields:
-      #       - name: "ctaText"
-      #         label: "CTA text"
-      #         widget: "string"
-      #       - name: "ctaLink"
-      #         label: "CTA Link"
-      #         widget: "string"
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"
@@ -109,7 +89,7 @@ collections:
               - widget: image
                 name: image
                 label: image
-                default: '/assets/stackrole.png'
+                default: '/assets/ih9-logo.png'
               - widget: string
                 name: twitterUsername
                 label: Twitter
