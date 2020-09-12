@@ -19,8 +19,10 @@
   background: var(--header-bg);
   padding: 20px 20px;
   z-index: 1000;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
   box-shadow: -1px -1px 15px rgba(0,0,0,0.4),
-                1px 1px 5px  rgba(150, 150, 150, 0.9);;
+                1px 1px 15px  rgba(150, 150, 150, 0.9);;
 }
 .site-navigation {
   ul {
@@ -104,7 +106,7 @@
 .post-card {
 	padding: 16px;
 	border: 1px solid rgba(0,0,0,0.08);
-	background-color:#fff;
+	background-color:rgba(250, 250, 250,1);
 	box-shadow: 0 5px 10px rgba(0,0,0,0.05);
 	border-radius: 12px;
 	transition: all .3s linear;
@@ -300,12 +302,12 @@ article img {
 	}
 }
 .site-footer {
-	display: flex;
-	align-items: center;
-  background: #eee;
-	text-align: center;
-	font-size: 14px;
-	padding: 20px 0;
+	// position: absolute;
+	bottom: 0;
+	width: 100%;
+  	background: rgba(197, 197, 197,.1);
+	font-size: 10px;
+	padding: 15px 0;
 	p {
 		margin: 0;
 		color: #777
@@ -389,8 +391,16 @@ article img {
 	}
 }
 
+@keyframes pulse {
+    0%{transform: scale(.95); opacity: .6;}
+    50%{transform: scale(1.05); opacity: 1;}
+    100%{transform: scale(.95); opacity: .5;}
+}
+
 @import "utility";
 
 // Libraries
 @import "lib/prism-default"
+
+
 

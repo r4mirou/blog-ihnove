@@ -19,20 +19,13 @@ const Layout = ({ children, className }) => {
         <div style={{ display: "flex", flexDirection: "row" }}>
           <div>
             <a href="http://www.ihnovecomunicacao.com.br">
-              <img src={Ih9Logo} style={{ width: "45px" }} alt="fireSpot" />
+              <img src={Ih9Logo} style={{ width: "55px", animation: "pulse 1.2s linear infinite"}} alt="fireSpot" />
             </a>
           </div>
           <a href="http://www.ihnovecomunicacao.com.br">
             <div style={{ color: "rgb(5, 112, 212)", marginLeft: "5px", marginTop: "15px" }}><b>BLOG!</b></div>
           </a>
         </div>
-        <div></div>
-        <a href="http://www.ihnovecomunicacao.com.br">
-        <div style={{ display: "flex", flexDirection: "row", alignItems:"center" }}>
-          <div style={{ fontSize: "32px" }}>←</div>
-          <div>Voltar para o site</div>
-          </div>
-        </a>
         <Navigation />
       </Header>
       <main className={"container " + className}>
