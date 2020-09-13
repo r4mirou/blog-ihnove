@@ -5,7 +5,7 @@ author: Patrícia Castro Gonçales
 slug: "/21112017blackfriday "
 date: 2017-11-21 20:29
 description: Black Friday  Comércio Eletrônico proteção dados  lojas sites desconto
-featuredImage: /assets/black-u24032-fr.jpg
+featuredImage: /assets/wrapped-gift-black-friday-sales_23-2148665534.jpg
 ---
 <!--StartFragment-->
 
