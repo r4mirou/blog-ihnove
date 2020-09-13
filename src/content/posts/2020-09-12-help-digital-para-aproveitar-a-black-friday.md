@@ -33,6 +33,6 @@ Guarde todos os registros de sua compra. Códigos de localização e de realiza�
 
 Mantenha a segurança do seu computador, atualizando o seu programa antivírus, e evite fazer a compra utilizando computadores de terceiros ou por redes wi-fi públicas.
 
-Curtiu? Então agora é só aproveitar!!!
+Curtiu? Então agora é só aproveitar!!
 
 <!--EndFragment-->
