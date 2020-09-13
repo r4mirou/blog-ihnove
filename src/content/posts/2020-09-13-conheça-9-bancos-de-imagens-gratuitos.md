@@ -8,6 +8,7 @@ description: >-
   ebooks PIXABAY FREE DIGITAL PHOTOS FREE PIK RGB STOCK IM Free Gratisography
   Free JPG Free Range Stock
    imagens de alta qualidade ilustrações gráficos vetoriai sredes sociais blogs sites materiais impressos marketing  conteúdo digital
+featuredImage: /assets/camera-photography-design-studio-editing-concept_53876-92027.jpg
 ---
 <!--StartFragment-->
 
