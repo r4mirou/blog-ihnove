@@ -23,8 +23,12 @@ Contar histórias é um ato de generosidade porque tem o poder de gerar identifi
 
 Eu sou jornalista de formação e já escrevi muitas histórias. Porém, o avanço enlouquecedor das tecnologias nos traz o senso de que devemos melhorar cada vez mais. É isso que eu venho tentando fazer. Nesse período de isolamento, por exemplo, tenho acompanhado muitos conteúdos e técnicas para contar histórias. Mas, se eu fosse resumir, de forma simples, diria o seguinte: 
 
-**•**	Seja humilde. Talvez você precise de ajuda pelo caminho. Ninguém nasce sabendo tudo. 
-•	Não tenha medo de se expor. É claro, faça isso com qualidade, mas não tenha medo da opinião dos outros. 
-•	Quanto mais “redonda” a sua história melhor. É por isso que ela deve ter começo, meio e fim e um personagem, que passa por conflitos e desafios. 
-•	Tem que ser relevante, ter utilidade para alguém ou para um determinado público.
+**•** Seja humilde. Talvez você precise de ajuda pelo caminho. Ninguém nasce sabendo tudo.
+
+• Não tenha medo de se expor. É claro, faça isso com qualidade, mas não tenha medo da opinião dos outros.
+
+• Quanto mais “redonda” a sua história melhor. É por isso que ela deve ter começo, meio e fim e um personagem, que passa por conflitos e desafios.
+
+• Tem que ser relevante, ter utilidade para alguém ou para um determinado público.
+
 Confesso, nem sempre é fácil ter inspiração para escrever um texto. Porém, pode ser muito gostoso quando você percebe que está contribuindo. Sim, a sua experiência pode ajudar, sem dúvida. Pode, pelo menos, trazer um alívio e aquela sensação de não estar sozinho nesse mundo.
