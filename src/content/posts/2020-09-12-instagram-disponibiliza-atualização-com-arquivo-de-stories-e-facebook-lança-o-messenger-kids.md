@@ -7,9 +7,10 @@ slug: " /0712207atualizaçãoinsta"
 date: 2017-12-07 20:35
 description: Mark Zuckerberg inovando atualizações lançamentos Instagram
   Facebook Messenger Stories Stories Highlights online  seção
-featuredImage: /assets/news.jpg
+featuredImage: /assets/instagramStories.png 
 ---
 <!--StartFragment-->
+
 
 Mark Zuckerberg e sua equipe estão sempre inovando! Desta vez, as atualizações e lançamentos foram feitos no Instagram e no Facebook Messenger. Confere aí:
 

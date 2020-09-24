@@ -6,9 +6,8 @@ slug: /15122017atualizaçõesInstagraeface
 date: 2017-12-15 20:51
 description: Facebook fanpages News Feed call-to-action ranquear conteudo
   Pancham Gajjar chat WhatsApp  Instagram hashtag
-featuredImage: /assets/atualizacao.jpg
+featuredImage: /assets/atualizacao.png
 ---
-<!--StartFragment-->
 
 **Facebook anuncia que vídeos mais relevantes terão maior visibilidade nos feeds**
 

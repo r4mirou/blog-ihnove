@@ -6,8 +6,9 @@ slug: /31082020trajetoriaSilvanaOliveira
 date: 2020-08-31 22:16
 description: ressignificar fraqueza derrota autoconhecimento autoaceitação Brené
   Brown trajetória Silvana Oliveira Ibiaçá
-featuredImage: /assets/42d669d4-0d5b-4963-a1f2-0e2b2dbb253e.jpg
+featuredImage: /assets/silvanaOliveira.png
 ---
+
 Será mesmo que a vulnerabilidade deve ser entendida como sinônimo de fraqueza ou derrota? Nesse caso, deixamos de lado a magia de ressignificar as situações que acontecem a nossa volta. Perdemos a oportunidade de atribuir um novo e lindo sentido aos desafios que a vida nos apresenta.
 Para mim, a pessoa que tem a coragem de mostrar a sua vulnerabilidade é mais forte do que muitos que reprimem seus sentimentos por orgulho, vergonha ou medo do julgamento. Vulnerabilidade não é fraqueza, é coragem.
 

@@ -1,15 +1,16 @@
 ---
 template: blog-post
-title: O que fica da Semana ARP da Comunicação ?!
+title: O que fica da Semana ARP da Comunicação?!
 author: Karen Vidaleti
 slug: " /11122017semanaarp"
 date: 2017-12-11 20:43
 description: " protagonismo carreira femeridade  efemeridade, time  Mutualidade
   conexões tarefas  internet das coisas Sincronicidade ferramentas algoritmos
   consumidor entrega efetiva Tensionalidade "
-featuredImage: /assets/arp.jpg
+featuredImage: /assets/arp.png
 ---
 <!--StartFragment-->
+
 
 A edição 2017 da Semana ARP da Comunicação movimentou profissionais da área na última semana, ao levar ao Centro de Eventos do Shopping BarraShoppingSul e à sede da Associação Riograndense de Propaganda (ARP) uma programação intensa, inspirada no tema ‘Pessoas e ideias primeiro’.
 

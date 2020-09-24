@@ -8,9 +8,10 @@ description: >-
   ebooks PIXABAY FREE DIGITAL PHOTOS FREE PIK RGB STOCK IM Free Gratisography
   Free JPG Free Range Stock
    imagens de alta qualidade ilustrações gráficos vetoriai sredes sociais blogs sites materiais impressos marketing  conteúdo digital
-featuredImage: /assets/camera-photography-design-studio-editing-concept_53876-92027.jpg
+featuredImage: /assets/bdImages.png
 ---
 <!--StartFragment-->
+
 
 Uma das principais estratégias de marketing de conteúdo e digital é utilizar imagens em divulgação de produtos e serviços pelas redes sociais, blogs, sites, materiais impressos e ebooks. Textos interessantes e imagens e vídeos de alta qualidade são importantíssimo para quem quer se destacar on e offline. Por isso, preparamos uma lista com 9 bancos de imagens gratuitos que possuem fotos de ótima qualidade e alta resolução. Confira!
 

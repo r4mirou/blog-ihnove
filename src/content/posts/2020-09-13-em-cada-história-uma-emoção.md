@@ -5,8 +5,9 @@ author: Daniela Bohrer
 slug: /19082020historiaemoção
 date: 2020-08-19 22:04
 description: Storytelling know-how Contar histórias
-featuredImage: /assets/girl-holding-book-front-face_23-2147690566.jpg
+featuredImage: /assets/historias.png
 ---
+
 Eu pensei em como poderia escrever um texto sobre como estou me sentindo com tudo isso que está acontecendo. Pensei em como poderia embasar minhas observações, se teria que recorrer a algum artigo científico ou fonte renomada. Mas, aí, me dei conta que poderia expressar, por meio de palavras, minhas percepções. Minha simples e pura visão profissional e pessoal desse momento desafiador.
 
 E a primeira coisa que eu digo é o seguinte: nunca imaginei que viveria para ver, de perto, um cenário como esse. O medo, a insegurança, a frustração. Será que estou fazendo o máximo possível e contribuindo, de alguma forma, para ajudar a tranquilizar as pessoas que estão a minha volta? Não sei a resposta, mas estou tentando. 

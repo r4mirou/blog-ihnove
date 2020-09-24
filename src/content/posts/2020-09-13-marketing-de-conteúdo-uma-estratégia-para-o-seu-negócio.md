@@ -6,9 +6,10 @@ slug: /09032018marketingconteudo
 date: 2018-03-09 21:58
 description: Marketing de Conteúdo internet planejar comunicação Textos imagens
   vídeos podcasts planejamento  Inbound Marketing monitoramento
-featuredImage: /assets/marketing.jpg
+featuredImage: /assets/marketing.png
 ---
 <!--StartFragment-->
+
 
 O **Marketing de Conteúdo** é uma estratégia cada dia mais adotada pelas empresas, sejam elas digitais ou não, para fins como aumentar vendas e engajar o público. Mas, ao contrário do que muitos pensam, não se resume a produzir conteúdo para o público. A cereja do bolo está em conhecer \[de fato] as pessoas para quem o seu negócio se destina e, assim, gerar conteúdo relevante. Então, eis a questão: diante da facilidade de acesso a informação e da diversidade de fontes na internet, como atribuir relevância e notoriedade a minha marca através do **Marketing de Conteúdo**?
 

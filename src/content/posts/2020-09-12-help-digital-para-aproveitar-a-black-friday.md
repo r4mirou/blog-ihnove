@@ -2,12 +2,11 @@
 template: blog-post
 title: Help digital para aproveitar a Black Friday
 author: Patrícia Castro Gonçales
-slug: "/21112017blackfriday "
+slug: "/21112017blackfriday"
 date: 2017-11-21 20:29
 description: Black Friday  Comércio Eletrônico proteção dados  lojas sites desconto
-featuredImage: /assets/wrapped-gift-black-friday-sales_23-2148665534.jpg
+featuredImage: /assets/blackFriday.png 
 ---
-<!--StartFragment-->
 
 Já estamos em ritmo de [Black Friday](http://www.blackfriday.com.br/) e decidimos te dar um help digital para facilitar tua vida nessa sexta-feira de promoções. Se você pretende aproveitar, fique ligado para não cair em ciladas e ofertas-fantasia. Elencamos 10 dicas, confere aí:
 
@@ -34,5 +33,3 @@ Guarde todos os registros de sua compra. Códigos de localização e de realiza�
 Mantenha a segurança do seu computador, atualizando o seu programa antivírus, e evite fazer a compra utilizando computadores de terceiros ou por redes wi-fi públicas.
 
 Curtiu? Então agora é só aproveitar!!
-
-<!--EndFragment-->

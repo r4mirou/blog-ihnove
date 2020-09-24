@@ -1,8 +1,8 @@
 ---
 template: contact-page
 slug: /contact
-title: Entrar em contato
+title: Quer entrar em contato conosco?
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Sinta-se à vontade para enviar suas sugestões, críticas e feedbacks.
+Acreditamos que processos colaborativos são os meios mais eficazes de evolução.

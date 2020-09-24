@@ -6,9 +6,10 @@ slug: /10112017marketingColdplay
 date: 2017-11-10 20:24
 description: Coldplay Experiências memoráveis imagem positiva público empatia
   experiências planejamento investimento relacionamento.
-featuredImage: /assets/coldplay.png
+featuredImage: /assets/coldplay.png 
 ---
 <!--StartFragment-->
+
 
 Recentemente, em 11 de novembro, a banda britânica [Coldplay](http://coldplay.com/) esteve em Porto Alegre com a turnê "A Head Full of Dreams" e foi sucesso em todos os sentidos: público, crítica, ações de engajamento. São milhões de fãs em todo mundo, shows super elaborados, recordes de bilheteria e, pasmem, a música é uma das formas do Coldplay de cativar pessoas. Os caras investem alto para ampliar a experiência do seu público, quer saber como? Então confere aí 3 lições de engajamento e marketing que aprendemos com eles!
 

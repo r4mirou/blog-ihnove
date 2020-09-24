@@ -5,7 +5,7 @@ author: Patrícia Castro
 slug: " /11012018WhatsAppBusiness"
 date: 2018-01-11 21:00
 description: WhatsApp WhatsApp Business FERRAMENTAS MENSAGENS NEGÓCIOS
-featuredImage: /assets/whats.png
+featuredImage: /assets/whatsapp.png 
 ---
 <!--StartFragment-->
 

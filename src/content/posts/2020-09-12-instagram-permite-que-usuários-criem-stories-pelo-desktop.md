@@ -2,12 +2,13 @@
 template: blog-post
 title: Instagram permite que usuários criem stories pelo desktop.
 author: Patrícia Castro Gonçales
-slug: " /2211017insta"
+slug: "/2211017insta"
 date: 2017-11-22 20:18
 description: Stories desktop Instagram atualização novas funcionalidades emojis novidades
-featuredImage: /assets/insta.jpg
+featuredImage: /assets/instagram.png
 ---
 <!--StartFragment-->
+
 
 Em constante atualização, o [Instagram](https://www.instagram.com/) anunciou que os usuários poderão criar
 

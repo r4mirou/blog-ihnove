@@ -15,19 +15,27 @@ const Layout = ({ children, className }) => {
   return (
     <div className="primary-container">
       <Header>
-        {/* Bradley Hand */}
-        {/* <Logo title={"img"} /> */}
-        <div style={{ display: "flex", flexDirection: "row" }}>
+        <div style={{ display: "flex", flexDirection: "row", marginLeft:"3vw" }}>
           <div>
             <Link to={"/"}>
               <img src={Ih9Logo} style={{ width: "55px", animation: "pulse 1.2s linear infinite" }} alt="fireSpot" />
             </Link>
           </div>
           <Link to={"/"}>
-            <div style={{ color: "rgb(5, 112, 212)", marginLeft: "5px", marginTop: "15px" }}><b>BLOG!</b></div>
+            <div style={{ color: "white", marginLeft: "-35px", marginTop: "30px", 
+            fontSize: "10px",
+
+            // transform:"translateX(-35px) translateY(15px) ",
+            
+            animation: "pulse 1.2s linear infinite",
+            animationDelay: ".6s",
+          
+          }}><b>BLOG!</b></div>
           </Link>
         </div>
+        {/* <div style={{marginRight:"50px"}}> */}
         <Navigation />
+        {/* </div> */}
       </Header>
       <main className={"container " + className}>
         <div style={{ marginBottom: "100px" }}></div>
