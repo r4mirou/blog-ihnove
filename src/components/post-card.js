@@ -3,9 +3,7 @@ import { Link } from "gatsby"
 import Img from "gatsby-image"
 
 const PostCard = ({ data }) => (
-  <article style={{
-    background:"linear-gradient(150deg, rgba(255,255,255,1) 26%, rgba(191,239,255,1) 70%, rgba(0,155,255,1) 100%)",
-   borderRadius:"12px",}}>
+  <article className="post-card-background">
     <div className="post-card">
       {data.frontmatter.featuredImage ?
         (
@@ -21,7 +19,7 @@ const PostCard = ({ data }) => (
         ) : ""
       }
       <div class="post-content">
-        <h2 className="title" style={{textAlign:"center"}}><Link to={data.frontmatter.slug}>{data.frontmatter.title}</Link></h2>
+        <h2 className="title"><Link to={data.frontmatter.slug}>{data.frontmatter.title}</Link></h2>
         <p className="meta"><time>{data.frontmatter.date}</time></p>
       </div>
     </div>

@@ -15,7 +15,6 @@ const MenuItems = [
 
 const ListLink = (props) => (<li><Link to={props.to}>{props.children}</Link></li>)
 
-
 class Navigation extends React.Component {
   constructor(props) {
     super(props)

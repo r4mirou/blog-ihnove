@@ -8,9 +8,7 @@ import Layout from "../components/layout"
 const Thanks = () => (
   <Layout className="thanks-page">
     <SEO title="Obrigado"/>
-    <div className="wrapper" style={{
-      textAlign: "center"
-    }}>
+    <div className="wrapper">
       <RiCheckboxCircleLine style={{
         fontSize: "128px",
         color: "var(--primary-color)"
@@ -19,7 +17,6 @@ const Thanks = () => (
       <p>Obrigado, seu contato é sempre muito importante.</p>
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Voltar para Home</Link>
     </div>
-
   </Layout>
 )
 

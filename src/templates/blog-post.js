@@ -10,25 +10,16 @@ const Post = ({ data, pageContext }) => {
   const { file, markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
   const BackGroundImage = file ? file.childImageSharp.fluid : ""
-  const { previous, next } = pageContext
-
-  let BannerImagePath = /assets/
-  BannerImagePath += frontmatter.featuredImage.childImageSharp.parent.name
-  BannerImagePath += frontmatter.featuredImage.childImageSharp.parent.ext
-
-  let props = {
-    previous,
-    next
-  }
+  let bannerImagePath = `/assets/${frontmatter.featuredImage.childImageSharp.parent.name}${frontmatter.featuredImage.childImageSharp.parent.ext}`
 
   return (
     <Layout className="page">
       <SEO
         title={frontmatter.title}
-        description={frontmatter.description ? frontmatter.description : excerpt}        
+        description={frontmatter.description ? frontmatter.description : excerpt}
         article={true}
       />
-      <div style={{ background: "rgb(161, 199, 255)", position: "absolute", left: "0", top: "0", width: "100%", height: "100%", zIndex: "-10000" }}>
+      <div className={"blog-post-background-image"}>
         {BackGroundImage ? (
           <Img
             fixed={BackGroundImage}
@@ -44,34 +35,16 @@ const Post = ({ data, pageContext }) => {
         <header className="featured-banner">
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
-            <div style={{ fontSize: "12px", display: "flex", flexDirection: "row", justifyContent: "center", alignItems: "center" }}>
+            <div className={"article-author"}>
               <time>{frontmatter.date} - {frontmatter.author}</time>
             </div>
           </section>
           <div style={{ textAlign: "center" }}>
             <div
-              style={{
-                marginLeft: "-160px",
-                marginTop: "-145px",
-                display: "inline-block",
-                position: "absolute",
-                width: "320px", height: "290px",
-                background: "rgba(255,255,255,1)",
-                boxSizing: "border-box",
-                clipPath: "circle(46%)"
-
-
-              }}
-            />
-            <img src={BannerImagePath}
-              alt="image banner"
-              style={{
-                width: "280px", height: "260px", clipPath: "circle(45%)",
-                position: "absolute",
-                marginLeft: "-140px",
-                marginTop: "-130px",
-              }}
-            />
+              className={"article-circle-border"} />
+            <img src={bannerImagePath}
+              className={"article-image"}
+              alt="image banner" />
           </div>
         </header>
         <div

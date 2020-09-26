@@ -1,5 +1,5 @@
 import React from "react"
-import { Link , graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
@@ -42,7 +42,7 @@ const Pagination = (props) => (
       {!props.isFirst && (
         <li>
           <Link to={props.prevPage} rel="prev">
-          <span className="icon -left"><RiArrowLeftLine/></span> Anterior
+            <span className="icon -left"><RiArrowLeftLine /></span> Anterior
           </Link>
         </li>
       )}
@@ -59,7 +59,7 @@ const Pagination = (props) => (
       {!props.isLast && (
         <li>
           <Link to={props.nextPage} rel="next">
-            Próximo <span className="icon -right"><RiArrowRightLine/></span>
+            Próximo <span className="icon -right"><RiArrowRightLine /></span>
           </Link>
         </li>
       )}
@@ -68,7 +68,7 @@ const Pagination = (props) => (
 )
 class BlogIndex extends React.Component {
   render() {
-    
+
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
     const blogSlug = '/'
@@ -91,14 +91,13 @@ class BlogIndex extends React.Component {
       isLast,
       nextPage
     }
-    
+
     return (
-      <Layout className="blog-page">
+      <Layout>
         <SEO
           title={"Blog — Page " + currentPage + " of " + numPages}
-          description={"Stackrole base blog page " + currentPage + " of " + numPages }
+          description={"blog page " + currentPage + " of " + numPages}
         />
-        {/* <h1 style={{marginBottom:"55px"}}>Posts</h1> */}
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
