@@ -8,6 +8,8 @@ description: "#propósito #felicidade #sonhos #feliz #planejamento #produção
   #gestão #conteúdo #paixao"
 featuredImage: /assets/dani.jpg
 ---
+![]()
+
 <!--StartFragment-->
 
 Sempre que me perguntam sobre **propósito de vida**, logo penso em contribuição e **felicidade**. Ou seja, qual contribuição vou deixar para o mundo? Como, concretizando os meus sonhos, vou me sentir feliz? Mais que isso, como poderei compartilhar essa **felicidade** com outras pessoas?
@@ -21,5 +23,7 @@ Foi pensando assim que escolhi a comunicação. Minha paixão por essa área com
 Como boa amante de exemplos inspiradores, venho contando histórias que ajudam na conexão entre pessoas e empresas. Isso eu entendo como propósito. Porque quando você escreve uma história, o seu desejo é compartilhar um conteúdo que possa trazer benefício para outras pessoas.
 
 A vida é escrita por muitas histórias que geram identificação e impulsionam o crescimento de todos que estão de fato comprometidos. E é assim, escrevendo histórias e contribuindo para relações cada vez mais sustentáveis e empáticas, que eu pretendo crescer e concretizar um por um dos meus sonhos. Que eu pretendo ser reconhecida por um trabalho relevante e, antes de tudo, **compartilhar felicidade**. Porque a vida é muito curta para ser resumida a uma página em branco.
+
+
 
 <!--EndFragment-->
