@@ -2,7 +2,7 @@
 template: blog-post
 title: Você compartilha felicidade?
 author: "Status: disponível Daniela Bohrer"
-slug: /26102020felicidade
+slug: /felicidade
 date: 2020-10-26 15:52
 description: "#propósito #felicidade #sonhos #feliz #planejamento #produção
   #gestão #conteúdo #paixao"
