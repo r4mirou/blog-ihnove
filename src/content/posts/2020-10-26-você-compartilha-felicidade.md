@@ -6,7 +6,7 @@ slug: /26102020felicidade
 date: 2020-10-26 15:52
 description: "#propósito #felicidade #sonhos #feliz #planejamento #produção
   #gestão #conteúdo #paixao"
-featuredImage: /assets/0-1-.jpg
+featuredImage: /assets/dani.jpg
 ---
 <!--StartFragment-->
 
