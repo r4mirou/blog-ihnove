@@ -25,11 +25,7 @@ O Patrono desta edição é uma homenagem ao escritor Antônio Canabarro Tróis 
 
 Antônio Canabarro Tróis Filho, o Tonito, nasceu em São Francisco de Assis, em 27 de novembro de 1926, e faleceu em 22 de outubro de 2020. Autor de mais de uma dezena de livros, entre os quais Gente é Mais Importante - Volume 3 - Crônicas (2017) e Hino das Vilas, de 1967, mas publicado em 1994. Residente em Canoas desde 1941, fundador dos jornais O Momento (1955) e O Timoneiro (1966), Tonito foi um grande pensador social. Patrono da Feira do Livro de Canoas em 1999, o iluminismo e humanismo de Tonito exalaram entre todos os seus amigos, com sua generosidade, apoio a jornalistas, escritores e artistas.
 
-
-
 **Acompanhe a programação completa:**
-
-
 
 **Sábado (12):**
 
@@ -37,13 +33,9 @@ Antônio Canabarro Tróis Filho, o Tonito, nasceu em São Francisco de Assis, em
 
 14h30 - Palestrante: Escritor Fê (SC)
 
-
-
 **Domingo (13):**
 
 14h30 às 17h - Casa do Poeta
-
-
 
 **Segunda (14):**
 
@@ -52,8 +44,6 @@ Antônio Canabarro Tróis Filho, o Tonito, nasceu em São Francisco de Assis, em
 14h30 - Letícia Wierzchowski (RS)
 
 16h - Haroldo Dutra (MG)
-
-
 
 **Terça (15):**
 
@@ -72,7 +62,3 @@ Onde? Feira do Livro de Canoas, nos links [https://www.dannaproducoes.com](https
 Quanto? Gratuito
 
 Contatos: Ih!Nove Comunicação – [falecom@ihnovecomunicacao.com.br](https://webmail-seguro.com.br/#NOP)
-
-Daniela Bohrer – Jornalista (MTb 13.923) - (54) 99620-8354
-
-Patrícia Castro – Jornalista (MTb 12845) - (51) 98181-5664/
