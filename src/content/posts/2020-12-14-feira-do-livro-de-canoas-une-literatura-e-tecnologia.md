@@ -96,7 +96,3 @@ Acessos: [https://www.dannaproducoes.com](https://www.dannaproducoes.com/) e [ht
 Ingressos: GRATUITO
 
 Contatos: Ih!Nove Comunicação – [falecom@ihnovecomunicacao.com.br](https://webmail-seguro.com.br/#NOP)
-
-Daniela Bohrer – Jornalista (MTb 13.923) - (54) 99620-8354
-
-Patrícia Castro – Jornalista (MTb 12845) - (51) 98181-5664/
