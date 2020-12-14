@@ -2,13 +2,11 @@
 template: blog-post
 title: Feira do Livro de Canoas une literatura e tecnologia
 author: Daniela Bohrer e Patrícia Castro
-slug: /Feiradolivrocanoas2020
+slug: /11122020Feiradolivrocanoas
 date: 2020-12-11 11:09
 description: feiradolivrocanoas, livros, feira, canoas
 featuredImage: /assets/card2blog.jpg
 ---
-**Feira do Livro de Canoas une literatura e tecnologia**
-
 *Pela primeira vez na história, tradicional evento acontece em formato on-line*
 
 Em tempos tão diferentes, de quietude e isolamento social, os livros tornam-se companhia imprescindível. Com uma boa história na mão, ou na tela do computador, o leitor é capaz de viajar para lugares diversos. Não é à toa que a Organização Mundial da Saúde sugere a leitura como tentativa de amenizar os impactos negativos da pandemia. Os livros possibilitam o acesso à cultura, trazem novas experiências e sensibilidade, mesmo em situações desafiadoras.
@@ -59,8 +57,6 @@ A literatura infantil tem a fantasia como mola e motor de sua existência, pois 
 
 14h30 às 17h – Apresentação Casa do Poeta
 
-
-
 **Segunda (14):**
 
 9h30 - Jackson Brum (RS)
@@ -75,8 +71,6 @@ Livro Estrelas fritas com açúcar
 
 Equilíbrio das emoções em tempos de pandemia
 
-
-
 **Terça (15):**
 
 9h30 - Professora Maristela e Boneca Rosa
@@ -90,8 +84,6 @@ Palestrinha Show - Adivinhem quem vem para brincar
 16h - Rogério Bastos
 
 200 anos da chegada de Auguste de Saint-Hilaire ao Rio Grande do Sul
-
-
 
 **Serviço: 36ª Feira do Livro de Canoas – Evento on-line**
 
