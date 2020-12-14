@@ -22,8 +22,6 @@ Ainda na sexta-feira, o público poderá conferir a palestra **Histórias crôni
 
 O Patrono desta edição é uma homenagem ao escritor Antônio Canabarro Tróis Filho (Tonito), que faleceu em outubro deste ano, aos 93 anos. A 36ª Feira do Livro de Canoas tem patrocínio da Companhia Riograndense de Saneamento (Corsan) e do Governo do Estado do Rio Grande do Sul – Novas Façanhas. Realização: Prefeitura Municipal de Canoas. Produção Cultural: Danna Produções. Outras informações nas redes sociais e site da produtora e da Prefeitura Municipal. O evento será transmitido gratuitamente pelos links a seguir: [https://www.dannaproducoes.com](https://www.dannaproducoes.com/) e [https://www.canoas.rs.gov.br](https://www.canoas.rs.gov.br/).
 
-
-
 **Acompanhe a programação completa:**
 
 **Sexta-feira (11):**
@@ -34,21 +32,15 @@ O Patrono desta edição é uma homenagem ao escritor Antônio Canabarro Tróis 
 
 14h30 - Palestrante : Escritor Luciano Pontes (PE)
 
-
-
 **Sábado (12):**
 
 10h - Palestrante: Escritor André Neves (RS)
 
 14h30 - Palestrante: Escritor Fê (SC)
 
-
-
 **Domingo (13):**
 
 14h30 às 17h - Casa do Poeta
-
-
 
 **Segunda (14):**
 
@@ -58,8 +50,6 @@ O Patrono desta edição é uma homenagem ao escritor Antônio Canabarro Tróis 
 
 16h - Haroldo Dutra (MG)
 
-
-
 **Terça (15):**
 
 9h30 - Professora Maristela e Boneca Rosa
@@ -67,8 +57,6 @@ O Patrono desta edição é uma homenagem ao escritor Antônio Canabarro Tróis 
 14h30H - Carlos Neves - Kalunga
 
 16h - Rogério Bastos
-
-
 
 **Aviso de pauta:**
 
@@ -81,7 +69,3 @@ Onde? Feira do Livro de Canoas, nos links [https://www.dannaproducoes.com](https
 Quanto? Gratuito
 
 Contatos: Ih!Nove Comunicação – [falecom@ihnovecomunicacao.com.br](https://webmail-seguro.com.br/#NOP)
-
-Daniela Bohrer – Jornalista (MTb 13.923) - (54) 99620-8354
-
-Patrícia Castro – Jornalista (MTb 12845) - (51) 98181-5664/
